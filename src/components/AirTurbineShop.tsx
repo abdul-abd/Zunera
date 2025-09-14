@@ -1,8 +1,6 @@
 "use client";
 
-/*
-AirTurbine E-Commerce — Single-file React starter (Tailwind + Framer Motion)
-*/
+
 
 import { motion } from "framer-motion";
 import { ShoppingCart, Phone } from "lucide-react";
