@@ -314,7 +314,7 @@ export default function AirTurbineShop({
         </div>
         <div className="border-t border-slate-800 text-slate-500 text-sm py-4 text-center">
           © {new Date().getFullYear()} Zunera Co. All rights reserved. developed
-          by Abdul sattar shaikh
+          by  Abdul sattar shaikh
         </div>
       </footer>
     </div>
